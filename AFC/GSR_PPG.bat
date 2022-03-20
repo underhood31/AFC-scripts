@@ -1,0 +1,1 @@
+python btGSR_PPG.py COM5 %name%

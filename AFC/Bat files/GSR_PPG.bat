@@ -1,0 +1,1 @@
+cd C:\Users\iiitd & call env/Scripts/activate & cd C:\Users\iiitd\Downloads\Python3 Stream - Shimmer 3 & python btGSR_PPG.py COM5
